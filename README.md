@@ -4,6 +4,9 @@
 ###[Unit 1](#unit1)
 - [Week 1](#week1)
   - [Day 1](#day1)
+  - [Day 2](#day2)
+  - [Day 3](#day3)
+  - [Day 4](#day4)
 
 ## <a name="unit1"></a>Unit 1 - HTML & CSS
 ### <a name="week1"></a>Week 1 - HTML & CSS
@@ -19,7 +22,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### Day 2 - HTML & CSS I
+#### <a name="day2"></a> Day 2 - HTML & CSS I
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -31,7 +34,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### Day 3 - HTML & CSS II
+#### <a name="day3"></a> Day 3 - HTML & CSS II
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -44,7 +47,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### Day 4 - HTML & CSS III
+#### <a name="day4"></a> Day 4 - HTML & CSS III
 - Before Class
   * READ THIS THING
 - Learning Objectives
