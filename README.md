@@ -108,7 +108,19 @@
 
 ## <a name="unit2"></a> Unit 2 - JavaScript
 ### <a name="week2"></a> Week 2 - JavaScript Fundamentals
-#### <a name="day21"></a> Day 1 - JavaScript Fundamentals I
+#### <a name="day21"></a> Day 1 - Advanced HTML / Review
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [NEEDS REPO](#REPO)
+- Additional Reading:
+  * Additional Reading
+
+#### <a name="day22"></a> Day 2 - JavaScript Fundamentals I
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -120,7 +132,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### <a name="day22"></a> Day 2 - JavaScript Fundamentals II
+#### <a name="day23"></a> Day 3 - JavaScript Fundamentals II
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -132,7 +144,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### <a name="day23"></a> Day 3 - JavaScript Fundamentals III
+#### <a name="day24"></a> Day 4 - JavaScript Fundamentals III
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -144,7 +156,8 @@
 - Additional Reading:
   * Additional Reading
 
-#### <a name="day24"></a> Day 4 - Advanced JavaScript I
+### <a name="week3"></a> Week 3 - Advanced JavaScript / jQuery
+#### <a name="day31"></a> Day 1 - Advanced JavaScript I
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -156,8 +169,7 @@
 - Additional Reading:
   * Additional Reading
 
-### <a name="week3"></a> Week 3 - Advanced JavaScript / jQuery
-#### <a name="day31"></a> Day 1 - Advanced JavaScript II
+#### <a name="day32"></a> Day 2 - Advanced JavaScript II
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -169,45 +181,8 @@
 - Additional Reading:
   * Additional Reading
 
-#### <a name="day32"></a> Day 2 - JavaScript Review
-- Before Class
-  * READ THIS THING
-- Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
-- Project:
-  * [JavaScript Review](https://github.com/DevMountain/JavaScript-Review)
-- Additional Reading:
-  * Additional Reading
 
-
-#### <a name="day33"></a> Day 3 - jQuery I
-- Before Class
-  * READ THIS THING
-- Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
-- Project:
-  * [Twitter Clone](https://github.com/DevMountain/twitter-clone)
-- Additional Reading:
-  * Additional Reading
-
-#### <a name="day34"></a> Day 4 - jQuery II
-- Before Class
-  * READ THIS THING
-- Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
-- Project:
-  * [Twitter Clone cont.](https://github.com/DevMountain/twitter-clone)
-- Additional Reading:
-  * Additional Reading
-
-### <a name="week4"></a> Week 4 - Advanced JavaScript / jQuery
-#### <a name="day41"></a> Day 1 - Advanced JavaScript II
+#### <a name="day33"></a> Day 3 - Advanced JavaScript III
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -219,7 +194,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### <a name="day42"></a> Day 2 - JavaScript Review
+#### <a name="day34"></a> Day 4 -Advanced JavaScript IIII
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -227,12 +202,12 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Project:
-  * [JavaScript Review](https://github.com/DevMountain/JavaScript-Review)
+  * [RAWR](#ifyouarereadingthiswhyareyoureadingthis)
 - Additional Reading:
   * Additional Reading
 
-
-#### <a name="day43"></a> Day 3 - jQuery I
+### <a name="week4"></a> Week 4 - jQuery
+#### <a name="day41"></a> Day 1 - jQuery I
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -244,7 +219,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### <a name="day44"></a> Day 4 - jQuery II
+#### <a name="day42"></a> Day 2 - jQuery II
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -253,6 +228,30 @@
   * LEARNING OBJ
 - Project:
   * [Twitter Clone cont.](https://github.com/DevMountain/twitter-clone)
+- Additional Reading:
+  * Additional Reading
+
+#### <a name="day43"></a> Day 3 - jQuery III
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [Twitter Clone](https://github.com/DevMountain/twitter-clone)
+- Additional Reading:
+  * Additional Reading
+
+#### <a name="day44"></a> Day 4 - JavaScript Review
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [JavaScript Review](https://github.com/DevMountain/JavaScript-Review)
 - Additional Reading:
   * Additional Reading
 
