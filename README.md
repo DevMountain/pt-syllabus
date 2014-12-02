@@ -21,18 +21,39 @@
   - [Day 3](#day33)
   - [Day 4](#day34)
 
-### [Unit 3 - AngularJS](#unit3)
 - [Week 4](#week4)
   - [Day 1](#day41)
   - [Day 2](#day42)
   - [Day 3](#day43)
   - [Day 4](#day44)
 
+### [Unit 3 - AngularJS](#unit3)
+
 - [Week 5](#week5)
   - [Day 1](#day51)
   - [Day 2](#day52)
   - [Day 3](#day53)
   - [Day 4](#day54)
+
+- [Week 6](#week6)
+  - [Day 1](#day61)
+  - [Day 2](#day62)
+  - [Day 3](#day63)
+  - [Day 4](#day64)
+
+- [Week 7](#week7)
+  - [Day 1](#day71)
+  - [Day 2](#day72)
+  - [Day 3](#day73)
+  - [Day 4](#day74)
+
+### [Unit 4 - BAAS / APIs](#unit4)
+
+- [Week 8](#week8)
+  - [Day 1](#day81)
+  - [Day 2](#day82)
+  - [Day 3](#day83)
+  - [Day 4](#day84)
 
 ## <a name="unit1"></a>Unit 1 - HTML & CSS
 ### <a name="week1"></a>Week 1 - HTML & CSS
@@ -136,7 +157,6 @@
   * Additional Reading
 
 ### <a name="week3"></a> Week 3 - Advanced JavaScript / jQuery
-
 #### <a name="day31"></a> Day 1 - Advanced JavaScript II
 - Before Class
   * READ THIS THING
@@ -186,10 +206,60 @@
 - Additional Reading:
   * Additional Reading
 
+### <a name="week4"></a> Week 4 - Advanced JavaScript / jQuery
+#### <a name="day41"></a> Day 1 - Advanced JavaScript II
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [Constructors](https://github.com/DevMountain/ConstructorConductor)
+- Additional Reading:
+  * Additional Reading
+
+#### <a name="day42"></a> Day 2 - JavaScript Review
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [JavaScript Review](https://github.com/DevMountain/JavaScript-Review)
+- Additional Reading:
+  * Additional Reading
+
+
+#### <a name="day43"></a> Day 3 - jQuery I
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [Twitter Clone](https://github.com/DevMountain/twitter-clone)
+- Additional Reading:
+  * Additional Reading
+
+#### <a name="day44"></a> Day 4 - jQuery II
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [Twitter Clone cont.](https://github.com/DevMountain/twitter-clone)
+- Additional Reading:
+  * Additional Reading
+
 
 ## <a name="unit3"></a>Unit 3 - AngularJS
-### <a name="week4"></a> Week 4 - AngularJS Fundamentals
-#### <a name="day41"></a> Day 1 - AngularJS Overview
+### <a name="week5"></a> Week 5 - AngularJS Fundamentals
+#### <a name="day51"></a> Day 1 - AngularJS Overview
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -201,7 +271,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### <a name="day42"></a> Day 2 - AngularJS Services
+#### <a name="day52"></a> Day 2 - AngularJS Services
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -213,7 +283,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### <a name="day43"></a> Day 3 - AngularJS Services Reviewed
+#### <a name="day53"></a> Day 3 - AngularJS Services Reviewed
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -225,7 +295,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### <a name="day44"></a> Day 4 - AngularJS Promises
+#### <a name="day54"></a> Day 4 - AngularJS Promises
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -237,8 +307,8 @@
 - Additional Reading:
   * Additional Reading
 
-### <a name="week5"></a> Week 5 - Advanced AngularJS
-#### <a name="day51"></a> Day 1 - AngularJS APIs
+### <a name="week6"></a> Week 6 - Advanced AngularJS
+#### <a name="day61"></a> Day 1 - AngularJS APIs
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -251,7 +321,7 @@
   * Additional Reading
 ## Unit 3 - AngularJS
 
-#### <a name="day52"></a> Day 2 - AngularJS Routing I
+#### <a name="day62"></a> Day 2 - AngularJS Routing I
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -263,7 +333,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### <a name="day53"></a> Day 3 - AngularJS Routing II
+#### <a name="day63"></a> Day 3 - AngularJS Routing II
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -275,7 +345,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### <a name="day54"></a> Day 4 - AngularJS Directives
+#### <a name="day64"></a> Day 4 - APIs
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -286,3 +356,105 @@
   * [Directives](https://github.com/DevMountain/Directives-Workshop)
 - Additional Reading:
   * Additional Reading
+
+### <a name="week7"></a> Week 7 - Advanced AngularJS
+#### <a name="day71"></a> Day 1 - AngularJS APIs
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [iTunes](https://github.com/DevMountain/itunes)
+- Additional Reading:
+  * Additional Reading
+## Unit 3 - AngularJS
+
+#### <a name="day72"></a> Day 2 - AngularJS Routing I
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [NBA Routes](https://github.com/DevMountain/nbaRoutes)
+- Additional Reading:
+  * Additional Reading
+
+#### <a name="day73"></a> Day 3 - AngularJS Routing II
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [NBA Routes cont.](https://github.com/DevMountain/nbaRoutes)
+- Additional Reading:
+  * Additional Reading
+
+#### <a name="day74"></a> Day 4 - APIs
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [Directives](https://github.com/DevMountain/Directives-Workshop)
+- Additional Reading:
+  * Additional Reading
+
+## <a href="unit4"></a> Unit 4 - BAAS & APIs
+### <a name="week8"></a> Week 8 - BAAS & APIs
+#### <a name="day81"></a> Day 1 - APIs
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [iTunes](https://github.com/DevMountain/itunes)
+- Additional Reading:
+  * Additional Reading
+## Unit 3 - AngularJS
+
+#### <a name="day82"></a> Day 2 - Parse
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [NBA Routes](https://github.com/DevMountain/nbaRoutes)
+- Additional Reading:
+  * Additional Reading
+
+#### <a name="day83"></a> Day 3 - Firebase
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [NBA Routes cont.](https://github.com/DevMountain/nbaRoutes)
+- Additional Reading:
+  * Additional Reading
+
+#### <a name="day84"></a> Day 4 - Firebase
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [Directives](https://github.com/DevMountain/Directives-Workshop)
+- Additional Reading:
+  * Additional Reading
+
