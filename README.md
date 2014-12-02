@@ -1,12 +1,18 @@
-# DevMountain Syllabus W:15 - Front End
+# DevMountain Syllabus W15 - Front End
 
 ## Unit 1 - HTML & CSS
-###   Week 1
-####    Day 1
+### Week 1 - HTML & CSS
+#### Day 1 - Git & Version Control
 * <a href="https://github.com/DevMountain/learn-git">Learn Git</a>
+
+#### Day 2 - HTML & CSS I
 * <a href="https://github.com/DevMountain/html-layout">HTML Layout</a>
+
+#### Day 3 - HTML & CSS II
 * <a href="https://github.com/DevMountain/html-layouts-2">HTML Layout Continued</a>
 * <a href="https://github.com/DevMountain/wikimedia-layout">Wikimedia Layout</a>
+
+#### Day 4 - HTML & CSS III
 * <a href="#CANTFINDREPO">SLC Dental</a>
 
 ## Unit 2 - JavaScript
