@@ -1,14 +1,14 @@
 # DevMountain Syllabus W15 - Front End
 
 ## Index
-###[Unit 1](#unit1)
+###[Unit 1 - HTML & CSS](#unit1)
 - [Week 1](#week1)
   - [Day 1](#day11)
   - [Day 2](#day12)
   - [Day 3](#day13)
   - [Day 4](#day14)
 
-### [Unit 2](#unit2)
+### [Unit 2 - JavaScript](#unit2)
 - [Week 2](#week2)
   - [Day 1](#day21)
   - [Day 2](#day22)
@@ -21,7 +21,7 @@
   - [Day 3](#day33)
   - [Day 4](#day34)
 
-### [Unit 3](#unit3)
+### [Unit 3 - AngularJS](#unit3)
 - [Week 4](#week4)
   - [Day 1](#day41)
   - [Day 2](#day42)
