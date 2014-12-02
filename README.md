@@ -3,6 +3,8 @@
 ## Unit 1 - HTML & CSS
 ### Week 1 - HTML & CSS
 #### Day 1 - Git & Version Control
+- Before Class
+  * READ THIS THING
 - Learning Objectives
   * LEARNING OBJ
   * LEARNING OBJ
