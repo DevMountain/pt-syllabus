@@ -3,14 +3,21 @@
 ## Index
 ###[Unit 1](#unit1)
 - [Week 1](#week1)
-  - [Day 1](#day1)
-  - [Day 2](#day2)
-  - [Day 3](#day3)
-  - [Day 4](#day4)
+  - [Day 1](#day11)
+  - [Day 2](#day12)
+  - [Day 3](#day13)
+  - [Day 4](#day14)
+
+### [Unit 2](#unit2)
+- [Week 1](#week2)
+  - [Day 1](#day21)
+  - [Day 2](#day22)
+  - [Day 3](#day23)
+  - [Day 4](#day24)
 
 ## <a name="unit1"></a>Unit 1 - HTML & CSS
 ### <a name="week1"></a>Week 1 - HTML & CSS
-#### <a name="day1"></a>Day 1 - Git & Version Control
+#### <a name="day11"></a>Day 1 - Git & Version Control
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -22,7 +29,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### <a name="day2"></a> Day 2 - HTML & CSS I
+#### <a name="day12"></a> Day 2 - HTML & CSS I
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -34,7 +41,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### <a name="day3"></a> Day 3 - HTML & CSS II
+#### <a name="day13"></a> Day 3 - HTML & CSS II
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -47,7 +54,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### <a name="day4"></a> Day 4 - HTML & CSS III
+#### <a name="day14"></a> Day 4 - HTML & CSS III
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -59,9 +66,9 @@
 - Additional Reading:
   * Additional Reading
 
-## Unit 2 - JavaScript
-### Week 2 - JavaScript Fundamentals
-#### Day 1 - JavaScript Fundamentals I
+## <a name="unit2"></a> Unit 2 - JavaScript
+### <a name="week2"></a> Week 2 - JavaScript Fundamentals
+#### <a name="day21"></a> Day 1 - JavaScript Fundamentals I
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -73,7 +80,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### Day 2 - JavaScript Fundamentals II
+#### <a name="day22"></a> Day 2 - JavaScript Fundamentals II
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -85,7 +92,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### Day 3 - JavaScript Fundamentals III
+#### <a name="day23"></a> Day 3 - JavaScript Fundamentals III
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -97,7 +104,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### Day 4 - Advanced JavaScript I
+#### <a name="day24"></a> Day 4 - Advanced JavaScript I
 - Before Class
   * READ THIS THING
 - Learning Objectives
