@@ -9,8 +9,10 @@
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
-- Project
+- Project:
   * <a href="https://github.com/DevMountain/learn-git">Learn Git</a>
+- Black Diamond:
+  * BLACK DIAMOND
 
 #### Day 2 - HTML & CSS I
 * <a href="https://github.com/DevMountain/html-layout">HTML Layout</a>
