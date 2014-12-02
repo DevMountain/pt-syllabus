@@ -3,6 +3,10 @@
 ## Unit 1 - HTML & CSS
 ### Week 1 - HTML & CSS
 #### Day 1 - Git & Version Control
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
 - Project
   * <a href="https://github.com/DevMountain/learn-git">Learn Git</a>
 
