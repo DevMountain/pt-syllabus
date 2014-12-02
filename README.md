@@ -49,7 +49,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
-- Projects:
+- Project:
   * [SLC Dental](http://www.slcdentalcenter.com/)
 - Additional Reading:
   * Additional Reading
@@ -63,7 +63,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
-- Projects:
+- Project:
   * [Koans](https://github.com/DevMountain/JS-KOANS)
 - Additional Reading:
   * Additional Reading
@@ -75,7 +75,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
-- Projects:
+- Project:
   * [Array Fiddles](https://github.com/DevMountain/array-fiddles)
 - Additional Reading:
   * Additional Reading
@@ -87,7 +87,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
-- Projects:
+- Project:
   * [Object Fiddles](https://github.com/DevMountain/object-fiddles)
 - Additional Reading:
   * Additional Reading
@@ -99,7 +99,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
-- Projects:
+- Project:
   * [War](https://github.com/DevMountain/war)
 - Additional Reading:
   * Additional Reading
@@ -113,7 +113,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
-- Projects:
+- Project:
   * [Constructors](https://github.com/DevMountain/ConstructorConductor)
 - Additional Reading:
   * Additional Reading
@@ -125,7 +125,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
-- Projects:
+- Project:
   * [JavaScript Review](https://github.com/DevMountain/JavaScript-Review)
 - Additional Reading:
   * Additional Reading
@@ -138,7 +138,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
-- Projects:
+- Project:
   * [Twitter Clone](https://github.com/DevMountain/twitter-clone)
 - Additional Reading:
   * Additional Reading
@@ -150,7 +150,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
-- Projects:
+- Project:
   * [Twitter Clone cont.](https://github.com/DevMountain/twitter-clone)
 - Additional Reading:
   * Additional Reading
@@ -165,7 +165,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
-- Projects:
+- Project:
   * [Angular Friends](https://github.com/DevMountain/angular-friends)
 - Additional Reading:
   * Additional Reading
@@ -177,7 +177,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
-- Projects:
+- Project:
   * [Quote Book](https://github.com/DevMountain/quoteBook)
 - Additional Reading:
   * Additional Reading
@@ -189,7 +189,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
-- Projects:
+- Project:
   * [Quote Book cont.](https://github.com/DevMountain/quoteBook)
 - Additional Reading:
   * Additional Reading
@@ -201,7 +201,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
-- Projects:
+- Project:
   * [Chatroom](https://github.com/DevMountain/chatroom)
 - Additional Reading:
   * Additional Reading
@@ -214,7 +214,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
-- Projects:
+- Project:
   * [iTunes](https://github.com/DevMountain/itunes)
 - Additional Reading:
   * Additional Reading
@@ -227,7 +227,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
-- Projects:
+- Project:
   * [NBA Routes](https://github.com/DevMountain/nbaRoutes)
 - Additional Reading:
   * Additional Reading
@@ -239,7 +239,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
-- Projects:
+- Project:
   * [NBA Routes cont.](https://github.com/DevMountain/nbaRoutes)
 - Additional Reading:
   * Additional Reading
@@ -251,7 +251,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
-- Projects:
+- Project:
   * [Directives](https://github.com/DevMountain/Directives-Workshop)
 - Additional Reading:
   * Additional Reading
