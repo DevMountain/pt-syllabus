@@ -8,14 +8,31 @@
   - [Day 3](#day13)
   - [Day 4](#day14)
 
-##
-
 ### [Unit 2](#unit2)
-- [Week 1](#week2)
+- [Week 2](#week2)
   - [Day 1](#day21)
   - [Day 2](#day22)
   - [Day 3](#day23)
   - [Day 4](#day24)
+
+- [Week 3](#week3)
+  - [Day 1](#day31)
+  - [Day 2](#day32)
+  - [Day 3](#day33)
+  - [Day 4](#day34)
+
+### [Unit 3](#unit3)
+- [Week 4](#week4)
+  - [Day 1](#day41)
+  - [Day 2](#day42)
+  - [Day 3](#day43)
+  - [Day 4](#day44)
+
+- [Week 5](#week5)
+  - [Day 1](#day51)
+  - [Day 2](#day52)
+  - [Day 3](#day53)
+  - [Day 4](#day54)
 
 ## <a name="unit1"></a>Unit 1 - HTML & CSS
 ### <a name="week1"></a>Week 1 - HTML & CSS
@@ -118,9 +135,9 @@
 - Additional Reading:
   * Additional Reading
 
-### Week 3 - Advanced JavaScript / jQuery
+### <a name="week3"></a> Week 3 - Advanced JavaScript / jQuery
 
-#### Day 1 - Advanced JavaScript II
+#### <a name="day31"></a> Day 1 - Advanced JavaScript II
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -132,7 +149,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### Day 2 - JavaScript Review
+#### <a name="day32"></a> Day 2 - JavaScript Review
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -145,7 +162,7 @@
   * Additional Reading
 
 
-#### Day 3 - jQuery I
+#### <a name="day33"></a> Day 3 - jQuery I
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -157,7 +174,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### Day 4 - jQuery II
+#### <a name="day34"></a> Day 4 - jQuery II
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -171,8 +188,8 @@
 
 
 ## <a name="unit3"></a>Unit 3 - AngularJS
-### Week 4 - AngularJS Fundamentals
-#### Day 1 - AngularJS Overview
+### <a name="week4"></a> Week 4 - AngularJS Fundamentals
+#### <a name="day41"></a> Day 1 - AngularJS Overview
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -184,7 +201,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### Day 2 - AngularJS Services
+#### <a name="day42"></a> Day 2 - AngularJS Services
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -196,7 +213,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### Day 3 - AngularJS Services Reviewed
+#### <a name="day43"></a> Day 3 - AngularJS Services Reviewed
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -208,7 +225,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### Day 4 - AngularJS Promises
+#### <a name="day44"></a> Day 4 - AngularJS Promises
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -220,8 +237,8 @@
 - Additional Reading:
   * Additional Reading
 
-### Week 5 - Advanced AngularJS
-#### Day 1 - AngularJS APIs
+### <a name="week5"></a> Week 5 - Advanced AngularJS
+#### <a name="day51"></a> Day 1 - AngularJS APIs
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -234,7 +251,7 @@
   * Additional Reading
 ## Unit 3 - AngularJS
 
-#### Day 2 - AngularJS Routing I
+#### <a name="day52"></a> Day 2 - AngularJS Routing I
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -246,7 +263,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### Day 3 - AngularJS Routing II
+#### <a name="day53"></a> Day 3 - AngularJS Routing II
 - Before Class
   * READ THIS THING
 - Learning Objectives
@@ -258,7 +275,7 @@
 - Additional Reading:
   * Additional Reading
 
-#### Day 4 - AngularJS Directives
+#### <a name="day54"></a> Day 4 - AngularJS Directives
 - Before Class
   * READ THIS THING
 - Learning Objectives
