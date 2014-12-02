@@ -13,6 +13,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Project:
+  * [wowee] (https://github.com/DevMountain/learn-git)
   * <a href="https://github.com/DevMountain/learn-git">Learn Git</a>
 - Additional Reading:
   * Additional Reading
