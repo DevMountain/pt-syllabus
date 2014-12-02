@@ -4,7 +4,7 @@
 ### Week 1 - HTML & CSS
 #### Day 1 - Git & Version Control
 - Project
-* <a href="https://github.com/DevMountain/learn-git">Learn Git</a>
+  * <a href="https://github.com/DevMountain/learn-git">Learn Git</a>
 
 #### Day 2 - HTML & CSS I
 * <a href="https://github.com/DevMountain/html-layout">HTML Layout</a>
