@@ -13,8 +13,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Project:
-  * [wowee] (https://github.com/DevMountain/learn-git)
-  * <a href="https://github.com/DevMountain/learn-git">Learn Git</a>
+  * [Learn Git](https://github.com/DevMountain/learn-git)
 - Additional Reading:
   * Additional Reading
 
@@ -26,7 +25,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Project:
-  * <a href="https://github.com/DevMountain/html-layout">HTML Layout</a>
+  * [HTML Layouts](https://github.com/DevMountain/html-layout)
 - Additional Reading:
   * Additional Reading
 
@@ -38,8 +37,8 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Projects:
-  * <a href="https://github.com/DevMountain/html-layouts-2">HTML Layout Continued</a>
-  * <a href="https://github.com/DevMountain/wikimedia-layout">Wikimedia Layout</a>
+  * [HTML Layout 2](https://github.com/DevMountain/html-layouts-2)
+  * [Wikimedia Layout](https://github.com/DevMountain/wikimedia-layout)
 - Additional Reading:
   * Additional Reading
 
@@ -51,7 +50,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Projects:
-  * <a href="http://www.slcdentalcenter.com/">SLC Dental</a>
+  * [SLC Dental](http://www.slcdentalcenter.com/)
 - Additional Reading:
   * Additional Reading
 
@@ -65,7 +64,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Projects:
-  * <a href="https://github.com/DevMountain/JS-KOANS">Koans</a>
+  * [Koans](https://github.com/DevMountain/JS-KOANS)
 - Additional Reading:
   * Additional Reading
 
@@ -77,7 +76,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Projects:
-  * <a href="https://github.com/DevMountain/array-fiddles">Array Fiddles</a>
+  * [Array Fiddles](https://github.com/DevMountain/array-fiddles)
 - Additional Reading:
   * Additional Reading
 
@@ -89,7 +88,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Projects:
-  * <a href="https://github.com/DevMountain/object-fiddles">Object Fiddles</a>
+  * [Object Fiddles](https://github.com/DevMountain/object-fiddles)
 - Additional Reading:
   * Additional Reading
 
@@ -101,7 +100,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Projects:
-  * <a href="https://github.com/DevMountain/war">War</a>
+  * [War](https://github.com/DevMountain/war)
 - Additional Reading:
   * Additional Reading
 
@@ -115,7 +114,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Projects:
-  * <a href="https://github.com/DevMountain/ConstructorConductor">Constructors</a>
+  * [Constructors](https://github.com/DevMountain/ConstructorConductor)
 - Additional Reading:
   * Additional Reading
 
@@ -127,7 +126,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Projects:
-  * <a href="https://github.com/DevMountain/JavaScript-Review">JavaScript Review</a>
+  * [JavaScript Review](https://github.com/DevMountain/JavaScript-Review)
 - Additional Reading:
   * Additional Reading
 
@@ -140,7 +139,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Projects:
-  * <a href="https://github.com/DevMountain/twitter-clone">Twitter Clone</a>
+  * [Twitter Clone](https://github.com/DevMountain/twitter-clone)
 - Additional Reading:
   * Additional Reading
 
@@ -152,7 +151,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Projects:
-  * <a href="https://github.com/DevMountain/twitter-clone">Twitter Clone cont.</a>
+  * [Twitter Clone cont.](https://github.com/DevMountain/twitter-clone)
 - Additional Reading:
   * Additional Reading
 
@@ -167,7 +166,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Projects:
-  * <a href="https://github.com/DevMountain/angular-friends">Angular Friends</a>
+  * [Angular Friends](https://github.com/DevMountain/angular-friends)
 - Additional Reading:
   * Additional Reading
 
@@ -179,7 +178,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Projects:
-  * <a href="https://github.com/DevMountain/quoteBook">Quote Book</a>
+  * [Quote Book](https://github.com/DevMountain/quoteBook)
 - Additional Reading:
   * Additional Reading
 
@@ -191,7 +190,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Projects:
-  * <a href="https://github.com/DevMountain/quoteBook">Quote Book cont.</a>
+  * [Quote Book cont.](https://github.com/DevMountain/quoteBook)
 - Additional Reading:
   * Additional Reading
 
@@ -203,7 +202,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Projects:
-  * <a href="https://github.com/DevMountain/chatroom">Chatroom</a>
+  * [Chatroom](https://github.com/DevMountain/chatroom)
 - Additional Reading:
   * Additional Reading
 
@@ -216,7 +215,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Projects:
-  * <a href="https://github.com/DevMountain/itunes">iTunes</a>
+  * [iTunes](https://github.com/DevMountain/itunes)
 - Additional Reading:
   * Additional Reading
 ## Unit 3 - AngularJS
@@ -229,7 +228,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Projects:
-  * <a href="https://github.com/DevMountain/nbaRoutes">NBA Routes</a>
+  * [NBA Routes](https://github.com/DevMountain/nbaRoutes)
 - Additional Reading:
   * Additional Reading
 
@@ -241,7 +240,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Projects:
-  * <a href="https://github.com/DevMountain/nbaRoutes">NBA Routes cont.</a>
+  * [NBA Routes cont.](https://github.com/DevMountain/nbaRoutes)
 - Additional Reading:
   * Additional Reading
 
@@ -253,6 +252,6 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Projects:
-  * <a href="https://github.com/DevMountain/Directives-Workshop">Directives</a>
+  * [Directives](https://github.com/DevMountain/Directives-Workshop)
 - Additional Reading:
   * Additional Reading
