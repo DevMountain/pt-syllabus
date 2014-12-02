@@ -1,11 +1,13 @@
 # DevMountain Syllabus W15 - Front End
 
 ## Index
-### Take me to [Unit 3](#unit3)
+###[Unit 1](#unit1)
+- [Week 1](#week1)
+  - [Day 1](#day1)
 
-## Unit 1 - HTML & CSS
-### Week 1 - HTML & CSS
-#### Day 1 - Git & Version Control
+## <a name="unit1"></a>Unit 1 - HTML & CSS
+### <a name="week1"></a>Week 1 - HTML & CSS
+#### <a name="day1"></a>Day 1 - Git & Version Control
 - Before Class
   * READ THIS THING
 - Learning Objectives
