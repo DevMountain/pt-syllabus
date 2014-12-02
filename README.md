@@ -11,8 +11,8 @@
   * LEARNING OBJ
 - Project:
   * <a href="https://github.com/DevMountain/learn-git">Learn Git</a>
-- Black Diamond:
-  * BLACK DIAMOND
+- Additional Reading:
+  * Additional Reading
 
 #### Day 2 - HTML & CSS I
 - Before Class
@@ -23,8 +23,8 @@
   * LEARNING OBJ
 - Project:
   * <a href="https://github.com/DevMountain/html-layout">HTML Layout</a>
-- Black Diamond:
-  * BLACK DIAMOND
+- Additional Reading:
+  * Additional Reading
 
 #### Day 3 - HTML & CSS II
 - Before Class
@@ -36,8 +36,8 @@
 - Projects:
   * <a href="https://github.com/DevMountain/html-layouts-2">HTML Layout Continued</a>
   * <a href="https://github.com/DevMountain/wikimedia-layout">Wikimedia Layout</a>
-- Black Diamond:
-  * BLACK DIAMOND
+- Additional Reading:
+  * Additional Reading
 
 #### Day 4 - HTML & CSS III
 - Before Class
@@ -48,8 +48,8 @@
   * LEARNING OBJ
 - Projects:
   * <a href="http://www.slcdentalcenter.com/">SLC Dental</a>
-- Black Diamond:
-  * BLACK DIAMOND
+- Additional Reading:
+  * Additional Reading
 
 ## Unit 2 - JavaScript
 * <a href="https://github.com/DevMountain/JS-KOANS">Koans</a>
