@@ -15,14 +15,41 @@
   * BLACK DIAMOND
 
 #### Day 2 - HTML & CSS I
-* <a href="https://github.com/DevMountain/html-layout">HTML Layout</a>
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * <a href="https://github.com/DevMountain/html-layout">HTML Layout</a>
+- Black Diamond:
+  * BLACK DIAMOND
 
 #### Day 3 - HTML & CSS II
-* <a href="https://github.com/DevMountain/html-layouts-2">HTML Layout Continued</a>
-* <a href="https://github.com/DevMountain/wikimedia-layout">Wikimedia Layout</a>
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Projects:
+  * <a href="https://github.com/DevMountain/html-layouts-2">HTML Layout Continued</a>
+  * <a href="https://github.com/DevMountain/wikimedia-layout">Wikimedia Layout</a>
+- Black Diamond:
+  * BLACK DIAMOND
 
 #### Day 4 - HTML & CSS III
-* <a href="#CANTFINDREPO">SLC Dental</a>
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Projects:
+  * <a href="http://www.slcdentalcenter.com/">SLC Dental</a>
+- Black Diamond:
+  * BLACK DIAMOND
 
 ## Unit 2 - JavaScript
 * <a href="https://github.com/DevMountain/JS-KOANS">Koans</a>
