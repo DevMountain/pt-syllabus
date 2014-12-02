@@ -1,5 +1,8 @@
 # DevMountain Syllabus W15 - Front End
 
+## Index
+### Take me to [Unit 3](#unit3)
+
 ## Unit 1 - HTML & CSS
 ### Week 1 - HTML & CSS
 #### Day 1 - Git & Version Control
@@ -153,7 +156,7 @@
   * Additional Reading
 
 
-## Unit 3 - AngularJS
+## <a name="unit3"></a>Unit 3 - AngularJS
 ### Week 4 - AngularJS Fundamentals
 #### Day 1 - AngularJS Overview
 - Before Class
