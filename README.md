@@ -48,12 +48,37 @@
   - [Day 4](#day74)
 
 ### [Unit 4 - BAAS / APIs](#unit4)
-
 - [Week 8](#week8)
   - [Day 1](#day81)
   - [Day 2](#day82)
   - [Day 3](#day83)
   - [Day 4](#day84)
+
+### [Unit 5 - Personal Projects](#unit5)
+- [Week 9](#week9)
+  - [Day 1](#day91)
+  - [Day 2](#day92)
+  - [Day 3](#day93)
+  - [Day 4](#day94)
+
+- [Week 10](#week10)
+  - [Day 1](#day101)
+  - [Day 2](#day102)
+  - [Day 3](#day103)
+  - [Day 4](#day104)
+
+- [Week 11](#week11)
+  - [Day 1](#day111)
+  - [Day 2](#day112)
+  - [Day 3](#day113)
+  - [Day 4](#day114)
+
+### [Unit 6 - Personal Projects](#unit6)
+- [Week 12](#week12)
+  - [Day 1](#day121)
+  - [Day 2](#day122)
+  - [Day 3](#day123)
+  - [Day 4](#day124)
 
 ## <a name="unit1"></a>Unit 1 - HTML & CSS
 ### <a name="week1"></a>Week 1 - HTML & CSS
