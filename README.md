@@ -128,7 +128,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Project:
-  * [REPLACE KOANS](#everydayimhustlin)
+  * [JS Basics](https://github.com/DevMountain/JS-Basics)
 - Additional Reading:
   * Additional Reading
 
@@ -190,7 +190,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Project:
-  * [NEEDZ MOAR JS Bruh](#itisadisasterbruh)
+  * [Callback Practice](https://github.com/DevMountain/callbackPractice)
 - Additional Reading:
   * Additional Reading
 
@@ -456,4 +456,94 @@
   * [RTFM cont.](https://github.com/DevMountain/RTFM)
 - Additional Reading:
   * Additional Reading
+
+## <a name="unit5"></a> Unit 5 - Personal Projects
+### <a name="week9"></a> Week 9 - Personal projects
+#### <a name="day91"></a> Day 1 - Personal Projects
+#### <a name="day92"></a> Day 2 - Personal Projects
+#### <a name="day93"></a> Day 3 - Personal Projects
+#### <a name="day94"></a> Day 4 - Personal Projects
+#### <a name="day95"></a> Day 5 - Personal Projects
+
+### <a name="week10"></a> Week 10 - Personal projects
+#### <a name="day101"></a> Day 1 - Personal Projects
+#### <a name="day102"></a> Day 2 - Personal Projects
+#### <a name="day103"></a> Day 3 - Personal Projects
+#### <a name="day104"></a> Day 4 - Personal Projects
+#### <a name="day105"></a> Day 5 - Personal Projects
+
+### <a name="week11"></a> Week 11 - Personal projects
+#### <a name="day111"></a> Day 1 - Personal Projects
+#### <a name="day112"></a> Day 2 - Personal Projects
+#### <a name="day113"></a> Day 3 - Personal Projects
+#### <a name="day114"></a> Day 4 - Personal Projects
+#### <a name="day115"></a> Day 5 - Personal Projects
+
+## <a name="unit6"></a> Unit 6 - Job Prep
+### <a name="week12"></a> Week 12 - Job Prep
+#### <a name="day121"></a> Day 1 - Job Prep
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [TODO](#makethis)
+- Additional Reading:
+  * Additional Reading
+## Unit 3 - AngularJS
+
+#### <a name="day122"></a> Day 2 - Job Prep
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [TODO](#TODO)
+- Additional Reading:
+  * Additional Reading
+
+#### <a name="day123"></a> Day 3 - Job Prep
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [TODO](#TODO)
+- Additional Reading:
+  * Additional Reading
+
+#### <a name="day124"></a> Day 4 - Job Prep
+- Before Class
+  * READ THIS THING
+- Learning Objectives
+  * LEARNING OBJ
+  * LEARNING OBJ
+  * LEARNING OBJ
+- Project:
+  * [TODO](#TODO)
+- Additional Reading:
+  * Additional Reading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
