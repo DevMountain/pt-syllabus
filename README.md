@@ -86,9 +86,9 @@
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  * Students will be able to initialize git in their projects
+  * Students will know how to create new GitHub Repositories
+  * Students will be able to commit, and push commits to their repos
 - Project:
   * [Learn Git](https://github.com/DevMountain/learn-git)
 - Additional Reading:
@@ -98,38 +98,62 @@
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will understand the purpose of HTML
+  - Students will understand the purpose of CSS
+  - Students will from scratch, be able to create a skeleton for their html and css page
+  - understand and be able to use the following HTML Elements 
+    - p
+    - footer
+    - header
+    - h1 - h6
+    - ul
+    - li
+    - div
+  - Understand and be able to use the following CSS properties
+    - id (#) vs class(.) and specificity
+    - width px & %
+    - height px & %
+    - background-color
+    - background-image
+    - color
+    - font-size
+    - text-align: center
+    - line-height
+    - box-model (margin, padding, border)
+    - float
+    - clear
 - Project:
   * [HTML Layouts](https://github.com/DevMountain/html-layout)
 - Additional Reading:
-  * Additional Reading
+  - [HTML Layouts](http://www.tutorialspoint.com/html/html_layouts.htm)
 
 #### <a name="day13"></a> Day 3 - HTML & CSS II
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will be able to use Chrome Dev Tools to inspect their HTML/CSS
+  - Students will understand the purpose of CSS
+  - Students will be able to compare and contrast fixed, relative, absolute, and static positioning in CSS
+  - Students will be able to compare and contrast display block, inline-block, inline, and none
+  - Students will be able to compare and contrast overflow hidden, auto, scroll
+  - Students will understand and be able to use max/min-width and max/min-height
 - Projects:
   * [HTML Layout 2](https://github.com/DevMountain/html-layouts-2)
   * [Wikimedia Layout](https://github.com/DevMountain/wikimedia-layout)
 - Additional Reading:
-  * Additional Reading
+  - [Positioning: MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 
 #### <a name="day14"></a> Day 4 - HTML & CSS III
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will understand and be able to explain the box model to someone else
+  - Students will understand media queries and be able to implement them
+  - Students will understand when and when not to use floating elements
 - Project:
   * [SLC Dental](http://www.slcdentalcenter.com/)
 - Additional Reading:
-  * Additional Reading
+  - [Codeacademy HTML Fundamentals](http://www.codecademy.com/courses/html-one-o-one/0/1)
 
 ## <a name="unit2"></a> Unit 2 - JavaScript
 ### <a name="week2"></a> Week 2 - JavaScript Fundamentals
@@ -149,9 +173,18 @@
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will understand how the web works:
+    - front-end vs back-end
+    - the web app landscape
+  - Students will understand JavaScript vs jQuery
+  - Students will understand what the DOM is
+  - Students will understand conditional statements and how they’re used
+  - Students will understand functions:
+    - invocation vs definition
+    - parameters vs arguments
+    - global and local scope
+    - anonymous functions
+    - return values and how to save the returned value to another variable
 - Project:
   * [JS Basics](https://github.com/DevMountain/JS-Basics)
 - Additional Reading:
@@ -161,9 +194,12 @@
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will understand Arrays:
+    - purpose
+    - how to get values from arrays
+    - array properties (length, push/pop, shift/unshift, split/join, splice/slice, reverse, indexOf)
+    - how to create an array
+    - how to loop through an array
 - Project:
   * [Array Fiddles](https://github.com/DevMountain/array-fiddles)
 - Additional Reading:
@@ -173,9 +209,10 @@
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will understand how Objects differ from Arrays
+  - Students will understand use cases for objects
+  - Students will understand how to create and add properties/values to objects
+  - Students will understand how to loop through objects
 - Project:
   * [Object Fiddles](https://github.com/DevMountain/object-fiddles)
 - Additional Reading:
@@ -186,9 +223,9 @@
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will understand how to create and invoke a method
+  - Students will understand bracket notation vs dot notation
+  - Students will understand how to remove keys/props from objects (delete)
 - Project:
   * [War](https://github.com/DevMountain/war)
 - Additional Reading:
@@ -198,9 +235,10 @@
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will understand the difference between the maker pattern and constructor pattern
+  - Students will understand what the ‘this’ keyword does and be able to use it
+  - Students will understand what the ‘new’ keyword does and what the JavaScript compiler does when a function is     called with the ‘new’ keyword
+  - understand what prototypes are in JavaScript and be able to add a method on a functions prototype and create      instances of that function that invoke the prototypes method
 - Project:
   * [Constructors](https://github.com/DevMountain/ConstructorConductor)
 - Additional Reading:
@@ -211,9 +249,10 @@
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will understand synchronous vs asynchronous programming
+  - Students will be able to talk about what a callback is
+  - Students will understand the use cases of callbacks
+  - Students will be able to identify and use callbacks
 - Project:
   * [Callback Practice](https://github.com/DevMountain/callbackPractice)
 - Additional Reading:
@@ -223,9 +262,8 @@
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will be able to define what a closure is
+  - Students will be able to identify when a closure is being used
 - Project:
   * [JavaScript Review](https://github.com/DevMountain/JavaScript-Review)
 - Additional Reading:
@@ -272,9 +310,11 @@
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will understand the difference between jQuery and Angular and how Angular fits into the web app          landscape
+  - Students will understand what a module, controller, directive, and service is in angular
+  - Students will be able to, from scratch, build a basic angular application, put data on a controller's scope,      and bind that data to the view
+  - Students will be able to ng-repeat over data
+  - Students will be able to filter data 
 - Project:
   * [Angular Friends](https://github.com/DevMountain/angular-friends)
 - Additional Reading:
@@ -289,9 +329,8 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will understand the purpose of Services in Angular
+  - Students will know how to inject services into their controllers
 - Project:
   * [Quote Book](https://github.com/DevMountain/quoteBook)
 - Additional Reading:
@@ -301,9 +340,8 @@
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will know how to call methods on their services from in their controllers and put the response on        $scope
+  - know the difference between factories and services 
 - Project:
   * [Quote Book cont.](https://github.com/DevMountain/quoteBook)
 - Additional Reading:
@@ -315,9 +353,8 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+ - Students will be able to explain what JSON is
+ - Students will be able to explain was REST is
 - Project:
   * [Chatroom](https://github.com/DevMountain/chatroom)
 - Additional Reading:
@@ -327,9 +364,8 @@
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will be able to explain what AJAX is
+  - Students will make an ajax request with angular, call .then on the promise and add that data to the $scope
 - Project:
   * [Chatroom](https://github.com/DevMountain/chatroom)
 - Additional Reading:
@@ -342,9 +378,7 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will be able to make $http requests to various APIs
 - Project:
   * [iTunes](https://github.com/DevMountain/itunes)
 - Additional Reading:
@@ -355,9 +389,8 @@
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will be able to use outside directives and know how to inject those modules into their application
+  - Students will be able to create, return, and resolve their own promises with $q
 - Project:
   * [iTunes](https://github.com/DevMountain/itunes)
 - Additional Reading:
@@ -381,9 +414,8 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will understand the methodology behind routing and templating
+  - Students will be able to set up a basic routing system with multiple views and controllers using ngRoute
 - Project:
   * [NBA Routes](https://github.com/DevMountain/nbaRoutes)
 - Additional Reading:
@@ -394,9 +426,8 @@
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will be able to use resolve to resolve data and pass in data to their controller before their            controller initializes
+  - Students will be able to use routeParams to gather data from the URL
 - Project:
   * [NBA Routes](https://github.com/DevMountain/nbaRoutes)
 - Additional Reading:
@@ -408,9 +439,7 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will understand how Directives fit into the Angular ecosystem
 - Project:
   * [Directives](https://github.com/DevMountain/Directives-Workshop)
 - Additional Reading:
@@ -420,9 +449,7 @@
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will be able to create a custom directive and use it in a view
 - Project:
   * [Directives cont.](https://github.com/DevMountain/Directives-Workshop)
 - Additional Reading:
@@ -459,9 +486,8 @@
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will understand the term CRUD
+  - Students will be able to use Angular’s $http service to make ajax requests to Parse’s RESTful endpoints, then     put that data on $scope
 - Project:
   * [ParseQueue](https://github.com/DevMountain/parseQueue)
 - Additional Reading:
@@ -473,9 +499,7 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will understand the basics of AngularFire
 - Project:
   * [RTFM](https://github.com/DevMountain/RTFM)
 - Additional Reading:
@@ -485,9 +509,7 @@
 - Before Class
   * READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - Students will understand the basics of AngularFire
 - Project:
   * [RTFM cont.](https://github.com/DevMountain/RTFM)
 - Additional Reading:
