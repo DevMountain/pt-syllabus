@@ -84,7 +84,7 @@
 ### <a name="week1"></a>Week 1 - HTML & CSS
 #### <a name="day11"></a>Day 1 - Git & Version Control
 - Before Class
-  * READ THIS THING
+  - [Getting Started with Git](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 - Learning Objectives
   * Students will be able to initialize git in their projects
   * Students will know how to create new GitHub Repositories
@@ -92,11 +92,13 @@
 - Project:
   * [Learn Git](https://github.com/DevMountain/learn-git)
 - Additional Reading:
-  * Additional Reading
+  - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/) 
+  - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+
 
 #### <a name="day12"></a> Day 2 - HTML & CSS I
 - Before Class
-  * READ THIS THING
+  - [Do This](http://mobileweb.codeschool.com/)
 - Learning Objectives
   - Students will understand the purpose of HTML
   - Students will understand the purpose of CSS
@@ -126,6 +128,7 @@
   * [HTML Layouts](https://github.com/DevMountain/html-layout)
 - Additional Reading:
   - [HTML Layouts](http://www.tutorialspoint.com/html/html_layouts.htm)
+  - [Chrome Mobile Emulation](https://developer.chrome.com/devtools/docs/mobile-emulation)
 
 #### <a name="day13"></a> Day 3 - HTML & CSS II
 - Before Class
