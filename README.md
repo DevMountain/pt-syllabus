@@ -1,4 +1,4 @@
-# DevMountain Syllabus W15 - Front End
+# DevMountain Part-time Syllabus
 
 ## Index
 ###[Unit 1 - HTML & CSS](#unit1)
@@ -83,22 +83,35 @@
 ## <a name="unit1"></a>Unit 1 - HTML & CSS
 ### <a name="week1"></a>Week 1 - HTML & CSS
 #### <a name="day11"></a>Day 1 - Git & Version Control
-- Before Class
-  - [Getting Started with Git](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+- Pre-Reading:
+  - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/) 
+  - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 - Learning Objectives
-  * Students will be able to initialize git in their projects
-  * Students will know how to create new GitHub Repositories
-  * Students will be able to commit, and push commits to their repos
+    - Students will understand and be able to use the command line for
+      - creating a folder
+      - creating a file
+      - editing a file
+      - changing directories
+    - Students will understand what Git and Github are and how they fit into the web app landscape
+    - Students will be able to Fork a repo and know it’s purpose
+    - Students will be able to clone a repo and know it’s purpose
+    - Students will be able to add, commit, and push files to github
+    - Students will understand branching and it’s purpose
+    - Students will understand how to use github in a group setting
+    - Students will know how to create an upstream to master
+    - Students will be able to handle merge conflicts
+    - Students will be able to minimally manage vim to escape merge conflict messages
+    - Students will know how to make a Pull Request
+    - Students will be able to pull changes from the master repo
 - Project:
   * [Learn Git](https://github.com/DevMountain/learn-git)
 - Additional Reading:
-  - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/) 
-  - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+  - [Getting Started with Git](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 
 
 #### <a name="day12"></a> Day 2 - HTML & CSS I
-- Before Class
-  - [Do This](http://mobileweb.codeschool.com/)
+- Pre-Reading:
+  - [TODO](TODO)
 - Learning Objectives
   - Students will understand the purpose of HTML
   - Students will understand the purpose of CSS
@@ -125,14 +138,12 @@
     - float
     - clear
 - Project:
-  * [HTML Layouts](https://github.com/DevMountain/html-layout)
+  - [HTML Layouts](https://github.com/DevMountain/html-layout)
 - Additional Reading:
-  - [HTML Layouts](http://www.tutorialspoint.com/html/html_layouts.htm)
-  - [Chrome Mobile Emulation](https://developer.chrome.com/devtools/docs/mobile-emulation)
 
 #### <a name="day13"></a> Day 3 - HTML & CSS II
-- Before Class
-  * READ THIS THING
+- Pre-Reading:
+  - [Positioning: MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 - Learning Objectives
   - Students will be able to use Chrome Dev Tools to inspect their HTML/CSS
   - Students will understand the purpose of CSS
@@ -141,36 +152,35 @@
   - Students will be able to compare and contrast overflow hidden, auto, scroll
   - Students will understand and be able to use max/min-width and max/min-height
 - Projects:
-  * [HTML Layout 2](https://github.com/DevMountain/html-layouts-2)
-  * [Wikimedia Layout](https://github.com/DevMountain/wikimedia-layout)
+  - [HTML Layout 2](https://github.com/DevMountain/html-layouts-2)
 - Additional Reading:
-  - [Positioning: MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 
 #### <a name="day14"></a> Day 4 - HTML & CSS III
-- Before Class
-  * READ THIS THING
+- Pre-Reading:
+  - [Finish HTML Layout 2](https://github.com/DevMountain/html-layouts-2)
+- (Continued) Learning Objectives
+  - Students will be able to use Chrome Dev Tools to inspect their HTML/CSS
+  - Students will understand the purpose of CSS
+  - Students will be able to compare and contrast fixed, relative, absolute, and static positioning in CSS
+  - Students will be able to compare and contrast display block, inline-block, inline, and none
+  - Students will be able to compare and contrast overflow hidden, auto, scroll
+  - Students will understand and be able to use max/min-width and max/min-height
+- Projects:
+  - [Wikimedia Layout](https://github.com/DevMountain/wikimedia-layout)
+- Additional Reading:
+
+## <a name="unit2"></a> Unit 2 - JavaScript
+### <a name="week2"></a> Week 2 - JavaScript Fundamentals
+#### <a name="day21"></a> Day 1 - Advanced CSS
+- Pre-Reading:
+  - [TODO](TODO)
 - Learning Objectives
   - Students will understand and be able to explain the box model to someone else
   - Students will understand media queries and be able to implement them
   - Students will understand when and when not to use floating elements
 - Project:
-  * [SLC Dental](http://www.slcdentalcenter.com/)
+  - [SLC Dental](http://www.slcdentalcenter.com/)
 - Additional Reading:
-  - [Codeacademy HTML Fundamentals](http://www.codecademy.com/courses/html-one-o-one/0/1)
-
-## <a name="unit2"></a> Unit 2 - JavaScript
-### <a name="week2"></a> Week 2 - JavaScript Fundamentals
-#### <a name="day21"></a> Day 1 - Advanced HTML / Review
-- Before Class
-  * READ THIS THING
-- Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
-- Project:
-  * [NEEDS REPO](#REPO)
-- Additional Reading:
-  * Additional Reading
 
 #### <a name="day22"></a> Day 2 - JavaScript Fundamentals I
 - Before Class
