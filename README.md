@@ -274,7 +274,7 @@
 ### <a name="week4"></a> Week 4 - jQuery
 #### <a name="day41"></a> Day 1 - jQuery I
 - Before Class
-  * READ THIS THING
+  - [Do this](https://www.codeschool.com/courses/try-jquery)
 - Learning Objectives
   * LEARNING OBJ
   * LEARNING OBJ
@@ -310,7 +310,7 @@
 
 #### <a name="day44"></a> Day 4 - AngularJS Overview
 - Before Class
-  * READ THIS THING
+  - [Watch this](https://www.youtube.com/watch?v=i9MHigUZKEM)
 - Learning Objectives
   - Students will understand the difference between jQuery and Angular and how Angular fits into the web app          landscape
   - Students will understand what a module, controller, directive, and service is in angular
@@ -320,14 +320,14 @@
 - Project:
   * [Angular Friends](https://github.com/DevMountain/angular-friends)
 - Additional Reading:
-  * Additional Reading
+  - [Watch this again](https://www.youtube.com/watch?v=i9MHigUZKEM)
 
 
 ## <a name="unit3"></a>Unit 3 - AngularJS
 ### <a name="week5"></a> Week 5 - AngularJS Fundamentals
 #### <a name="day51"></a> Day 1 - AngularJS Services
 - Before Class
-  * READ THIS THING
+  [Watch videos 1-15](http://goo.gl/NVBTbA)
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -340,7 +340,7 @@
 
 #### <a name="day52"></a> Day 2 - AngularJS Services Reviewed
 - Before Class
-  * READ THIS THING
+  - [Watch videos 16-20](http://goo.gl/NVBTbA)
 - Learning Objectives
   - Students will know how to call methods on their services from in their controllers and put the response on        $scope
   - know the difference between factories and services 
@@ -351,7 +351,7 @@
 
 #### <a name="day53"></a> Day 3 - AngularJS Promises
 - Before Class
-  * READ THIS THING
+  - [Read this](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
