@@ -311,9 +311,9 @@
 - Additional Reading:
   * Additional Reading
 
-#### <a name="day44"></a> Day 4 - AngularJS Overview
-- Before Class
-  - [Watch this](https://www.youtube.com/watch?v=i9MHigUZKEM)
+#### <a name="day44"></a> Day 4 - AngularJS I
+- Pre-Reading:
+  - [Starting with Angular](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
 - Learning Objectives
   - Students will understand the difference between jQuery and Angular and how Angular fits into the web app          landscape
   - Students will understand what a module, controller, directive, and service is in angular
@@ -321,204 +321,191 @@
   - Students will be able to ng-repeat over data
   - Students will be able to filter data 
 - Project:
-  * [Angular Friends](https://github.com/DevMountain/angular-friends)
+  - [Angular Friends](https://github.com/DevMountain/angular-friends)
 - Additional Reading:
-  - [Watch this again](https://www.youtube.com/watch?v=i9MHigUZKEM)
-
 
 ## <a name="unit3"></a>Unit 3 - AngularJS
 ### <a name="week5"></a> Week 5 - AngularJS Fundamentals
-#### <a name="day51"></a> Day 1 - AngularJS Services
-- Before Class
-  [Watch videos 1-15](http://goo.gl/NVBTbA)
+#### <a name="day51"></a> Day 1 - AngularJS II
+- Pre-Reading:
+  - [Angular Services](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
   - Students will understand the purpose of Services in Angular
   - Students will know how to inject services into their controllers
-- Project:
-  * [Quote Book](https://github.com/DevMountain/quoteBook)
-- Additional Reading:
-  * Additional Reading
-
-#### <a name="day52"></a> Day 2 - AngularJS Services Reviewed
-- Before Class
-  - [Watch videos 16-20](http://goo.gl/NVBTbA)
-- Learning Objectives
   - Students will know how to call methods on their services from in their controllers and put the response on        $scope
-  - know the difference between factories and services 
+  - Students will know the difference between factories and services 
 - Project:
-  * [Quote Book cont.](https://github.com/DevMountain/quoteBook)
+  - [Quote Book (If Mini Project Completed)](https://github.com/DevMountain/quoteBook)
 - Additional Reading:
-  * Additional Reading
 
-#### <a name="day53"></a> Day 3 - AngularJS Promises
-- Before Class
-  - [Read this](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
+#### <a name="day52"></a> Day 2 - AngularJS II Pt 2
+- Pre-Reading:
+  - [Finish Previous Mini Project](todo)
+- (Continued) Learning Objectives
+  - Students will understand the purpose of Services in Angular
+  - Students will know how to inject services into their controllers
+  - Students will know how to call methods on their services from in their controllers and put the response on        $scope
+  - Students will know the difference between factories and services 
+- Project:
+  - [Quote Book](https://github.com/DevMountain/quoteBook)
+- Additional Reading:
+
+#### <a name="day53"></a> Day 3 - AngularJS III
+- Pre-Reading:
+  - [Angular's $http](https://egghead.io/lessons/angularjs-http)
+  - [Promises](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
- - Students will be able to explain what JSON is
- - Students will be able to explain was REST is
-- Project:
-  * [Chatroom](https://github.com/DevMountain/chatroom)
-- Additional Reading:
-  * Additional Reading
-
-#### <a name="day54"></a> Day 4 - AngularJS Promises
-- Before Class
-  * READ THIS THING
-- Learning Objectives
+  - Students will be able to explain what JSON is
+  - Students will be able to explain was REST is
   - Students will be able to explain what AJAX is
   - Students will make an ajax request with angular, call .then on the promise and add that data to the $scope
 - Project:
-  * [Chatroom](https://github.com/DevMountain/chatroom)
+  - [Chatroom (If Mini Project Completed)](https://github.com/DevMountain/chatroom)
 - Additional Reading:
-  * Additional Reading
+
+#### <a name="day54"></a> Day 4 - AngularJS IIII Pt 2
+- Pre-Reading:
+  - [Finish Previous Mini Project](todo)
+- (Continued) Learning Objectives
+  - Students will be able to explain what JSON is
+  - Students will be able to explain was REST is
+  - Students will be able to explain what AJAX is
+  - Students will make an ajax request with angular, call .then on the promise and add that data to the $scope
+- Project:
+  - [Chatroom](https://github.com/DevMountain/chatroom)
+- Additional Reading:
 
 ### <a name="week6"></a> Week 6 - Advanced AngularJS
-#### <a name="day61"></a> Day 1 - AngularJS APIs I
-- Before Class
-  * READ THIS THING
+#### <a name="day61"></a> Day 1 - AngularJS IIII 
+- Pre-Reading:
+  - [$q](http://www.webdeveasy.com/javascript-promises-and-angularjs-q-service/)
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
   - Students will be able to make $http requests to various APIs
-- Project:
-  * [iTunes](https://github.com/DevMountain/itunes)
-- Additional Reading:
-  * Additional Reading
-## Unit 3 - AngularJS
-
-#### <a name="day62"></a> Day 2 - AngularJS APIs II
-- Before Class
-  * READ THIS THING
-- Learning Objectives
   - Students will be able to use outside directives and know how to inject those modules into their application
   - Students will be able to create, return, and resolve their own promises with $q
 - Project:
-  * [iTunes](https://github.com/DevMountain/itunes)
+  - [iTunes API (If Mini Project Completed)](https://github.com/DevMountain/itunes)
 - Additional Reading:
-  * Additional Reading
 
-#### <a name="day63"></a> Day 3 - AngularJS Review
-- Before Class
-  * READ THIS THING
-- Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+#### <a name="day62"></a> Day 2 - AngularJS IIII Pt 2
+- Pre-Reading:
+  - [Finish Previous Mini Project](todo)
+- (Continued) Learning Objectives
+  - Students will be able to make $http requests to various APIs
+  - Students will be able to use outside directives and know how to inject those modules into their application
+  - Students will be able to create, return, and resolve their own promises with $q
+- Project:
+  - [iTunes API](https://github.com/DevMountain/itunes)
+- Additional Reading:
+
+#### <a name="day63"></a> Day 3 - AngularJS Review I
 - Project:
   * [TODO](TODO)
 - Additional Reading:
-  * Additional Reading
 
-#### <a name="day64"></a> Day 4 -  AngularJS Routing I
-- Before Class
-  * READ THIS THING
+#### <a name="day64"></a> Day 4 -  AngularJS V
+- Pre-Reading:
+  - [Routing with ngRoute](http://scotch.io/tutorials/javascript/single-page-apps-with-angularjs-routing-and-templating)
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
   - Students will understand the methodology behind routing and templating
   - Students will be able to set up a basic routing system with multiple views and controllers using ngRoute
-- Project:
-  * [NBA Routes](https://github.com/DevMountain/nbaRoutes)
-- Additional Reading:
-  * Additional Reading
-
-### <a name="week7"></a> Week 7 - Advanced AngularJS
-#### <a name="day71"></a> Day 1 -  AngularJS Routing II
-- Before Class
-  * READ THIS THING
-- Learning Objectives
   - Students will be able to use resolve to resolve data and pass in data to their controller before their            controller initializes
   - Students will be able to use routeParams to gather data from the URL
 - Project:
-  * [NBA Routes](https://github.com/DevMountain/nbaRoutes)
+  - [NBA Routes (If Mini Project Completed)](https://github.com/DevMountain/nbaRoutes)
 - Additional Reading:
-  * Additional Reading
 
-#### <a name="day72"></a> Day 2 - AngularJS Directives I
-- Before Class
-  * READ THIS THING
+### <a name="week7"></a> Week 7 - Advanced AngularJS
+#### <a name="day71"></a> Day 1 -  AngularJS V Pt 2
+- Pre-Reading:
+  - [Finish Previous Mini Project](todo)
+- (Continued) Learning Objectives
+  - Students will understand the methodology behind routing and templating
+  - Students will be able to set up a basic routing system with multiple views and controllers using ngRoute
+  - Students will be able to use resolve to resolve data and pass in data to their controller before their            controller initializes
+  - Students will be able to use routeParams to gather data from the URL
+- Project:
+  - [NBA Routes](https://github.com/DevMountain/nbaRoutes)
+- Additional Reading:
+
+#### <a name="day72"></a> Day 2 - AngularJS VI
+- Pre-Reading:
+  - [Directives](http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-fundamentals)
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
   - Students will understand how Directives fit into the Angular ecosystem
-- Project:
-  * [Directives](https://github.com/DevMountain/Directives-Workshop)
-- Additional Reading:
-  * Additional Reading
-
-#### <a name="day73"></a> Day 3 - AngularJS Directives II
-- Before Class
-  * READ THIS THING
-- Learning Objectives
   - Students will be able to create a custom directive and use it in a view
 - Project:
-  * [Directives cont.](https://github.com/DevMountain/Directives-Workshop)
+  - [Directives Workshop (If Mini Project Completed)](https://github.com/DevMountain/Directives-Workshop)
 - Additional Reading:
-  * Additional Reading
+
+#### <a name="day73"></a> Day 3 - AngularJS VI Pt 2
+- Pre-Reading:
+  - [Finish Previous Mini Project](todo)
+- Learning Objectives
+  - Students will understand how Directives fit into the Angular ecosystem
+  - Students will be able to create a custom directive and use it in a view
+- Project:
+  - [Directives Workshop](https://github.com/DevMountain/Directives-Workshop)
+- Additional Reading:
 
 #### <a name="day74"></a> Day 4 - APIs I
-- Before Class
-  * READ THIS THING
+- Pre-Reading:
 - Learning Objectives
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
 - Project:
-  * [TODO](#TODO)
+  - [TODO](#TODO)
 - Additional Reading:
-  * Additional Reading
 
 ## <a name="unit4"></a> Unit 4 - BAAS & APIs
 ### <a name="week8"></a> Week 8 - BAAS & APIs
 #### <a name="day81"></a> Day 1 - APIs II
-- Before Class
-  * READ THIS THING
+- Pre-Reading
 - Learning Objectives
   * LEARNING OBJ
   * LEARNING OBJ
   * LEARNING OBJ
 - Project:
-  * [TODO](#TODO)
+  - [TODO](#TODO)
 - Additional Reading:
-  * Additional Reading
-## Unit 3 - AngularJS
 
 #### <a name="day82"></a> Day 2 - Parse
-- Before Class
-  * READ THIS THING
+- Pre-Reading:
 - Learning Objectives
   - Students will understand the term CRUD
   - Students will be able to use Angular’s $http service to make ajax requests to Parse’s RESTful endpoints, then     put that data on $scope
 - Project:
-  * [ParseQueue](https://github.com/DevMountain/parseQueue)
+  - [Parse Queue](https://github.com/DevMountain/parseQueue)
 - Additional Reading:
-  * Additional Reading
 
 #### <a name="day83"></a> Day 3 - Firebase
-- Before Class
-  * READ THIS THING
+- Pre-Reading:
+  - [Firebase Tutorial](http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase--cms-22391)
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - Students will understand the basics of AngularFire
 - Project:
-  * [RTFM](https://github.com/DevMountain/RTFM)
+  - [Real Time Forum (If Mini Project Completed)](https://github.com/DevMountain/rtfm)
 - Additional Reading:
-  * Additional Reading
 
-#### <a name="day84"></a> Day 4 - Firebase
-- Before Class
-  * READ THIS THING
+#### <a name="day84"></a> Day 4 - Firebase Pt 2
+- Pre-Reading:
+  - [Finish Previous Mini Project](todo)
 - Learning Objectives
-  - Students will understand the basics of AngularFire
 - Project:
-  * [RTFM cont.](https://github.com/DevMountain/RTFM)
+  - [Real Time Forum](https://github.com/DevMountain/rtfm)
 - Additional Reading:
-  * Additional Reading
 
 ## <a name="unit5"></a> Unit 5 - Personal Projects
 ### <a name="week9"></a> Week 9 - Personal projects
@@ -545,50 +532,21 @@
 ## <a name="unit6"></a> Unit 6 - Job Prep
 ### <a name="week12"></a> Week 12 - Job Prep
 #### <a name="day121"></a> Day 1 - Job Prep
-- Before Class
-  * READ THIS THING
-- Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
 - Project:
-  * [TODO](#makethis)
+  - [TODO](#TODO)
 - Additional Reading:
-  * Additional Reading
-## Unit 3 - AngularJS
 
 #### <a name="day122"></a> Day 2 - Job Prep
-- Before Class
-  * READ THIS THING
-- Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
 - Project:
-  * [TODO](#TODO)
+  - [TODO](#TODO)
 - Additional Reading:
-  * Additional Reading
 
 #### <a name="day123"></a> Day 3 - Job Prep
-- Before Class
-  * READ THIS THING
-- Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
 - Project:
-  * [TODO](#TODO)
+  - [TODO](#TODO)
 - Additional Reading:
-  * Additional Reading
 
 #### <a name="day124"></a> Day 4 - Job Prep
-- Before Class
-  * READ THIS THING
-- Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
 - Project:
-  * [TODO](#TODO)
+  - [TODO](#TODO)
 - Additional Reading:
-  * Additional Reading
