@@ -171,7 +171,7 @@
 
 #### <a name="day22"></a> Day 2 - JavaScript Fundamentals I
 - Before Class
-  * READ THIS THING
+  - [Watch videos 1 - 15](https://buckysroom.org/videos.php?cat=10)
 - Learning Objectives
   - Students will understand how the web works:
     - front-end vs back-end
@@ -192,7 +192,7 @@
 
 #### <a name="day23"></a> Day 3 - JavaScript Fundamentals II
 - Before Class
-  * READ THIS THING
+  - [Watch videos 19, 20, 28-35](https://buckysroom.org/videos.php?cat=10 )
 - Learning Objectives
   - Students will understand Arrays:
     - purpose
@@ -207,7 +207,7 @@
 
 #### <a name="day24"></a> Day 4 - JavaScript Fundamentals III
 - Before Class
-  * READ THIS THING
+  - [Read about objects](http://javascriptissexy.com/javascript-objects-in-detail/)
 - Learning Objectives
   - Students will understand how Objects differ from Arrays
   - Students will understand use cases for objects
@@ -221,7 +221,8 @@
 ### <a name="week3"></a> Week 3 - Advanced JavaScript
 #### <a name="day31"></a> Day 1 - Advanced JavaScript I
 - Before Class
-  * READ THIS THING
+  - [Read about callbacks](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
+  - [Read about 'this'](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 - Learning Objectives
   - Students will understand how to create and invoke a method
   - Students will understand bracket notation vs dot notation
@@ -260,7 +261,8 @@
 
 #### <a name="day44"></a> Day 4 - JavaScript Review
 - Before Class
-  * READ THIS THING
+  -[Read about Scopes and Hoisting](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
+  -[Study this](www.tylermcginnis.com/utahjs)
 - Learning Objectives
   - Students will be able to define what a closure is
   - Students will be able to identify when a closure is being used
