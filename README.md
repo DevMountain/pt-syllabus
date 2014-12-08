@@ -348,7 +348,7 @@
   - [Angular's $http](https://egghead.io/lessons/angularjs-http)
   - [Promises](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
 - Mini Project:
-  - [TODO](#TODO)
+  - [User Profiles II](https://github.com/DevMountain/mini-userProfiles2)
 - Learning Objectives
   - Students will be able to explain what JSON is
   - Students will be able to explain was REST is
@@ -431,7 +431,7 @@
 - Pre-Reading:
   - [Directives](http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-fundamentals)
 - Mini Project:
-  - [TODO](#TODO)
+  - [Time Directive](https://github.com/DevMountain/mini-timeDirective)
 - Learning Objectives
   - Students will understand how Directives fit into the Angular ecosystem
   - Students will be able to create a custom directive and use it in a view
