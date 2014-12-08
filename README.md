@@ -306,6 +306,8 @@
 - Pre-Reading:
   - [Starting with Angular](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
   - [Angular in 60ish Minutes](https://www.youtube.com/watch?v=i9MHigUZKEM)
+- Mini Project:
+  - [Babies first Angular](https://github.com/DevMountain/mini-BabiesFirstAngular)
 - Learning Objectives
   - Students will understand the difference between jQuery and Angular and how Angular fits into the web app          landscape
   - Students will understand what a module, controller, directive, and service is in angular
@@ -321,7 +323,7 @@
 - Pre-Reading:
   - [Angular Services](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 - Mini Project:
-  - [Babies first Angular](https://github.com/DevMountain/mini-BabiesFirstAngular)
+  - [User Profile](https://github.com/DevMountain/mini-userProfiles)
 - Learning Objectives
   - Students will understand the purpose of Services in Angular
   - Students will know how to inject services into their controllers
@@ -333,7 +335,7 @@
 
 #### <a name="day52"></a> Day 2 - AngularJS II Pt 2
 - Pre-Reading:
-  - [Finish Previous Mini Project](todo)
+  - [Finish Previous Mini Project](https://github.com/DevMountain/mini-userProfiles)
 - (Continued) Learning Objectives
   - Students will understand the purpose of Services in Angular
   - Students will know how to inject services into their controllers
@@ -358,9 +360,9 @@
   - [Chatroom (If Mini Project Completed)](https://github.com/DevMountain/chatroom)
 - Additional Reading:
 
-#### <a name="day54"></a> Day 4 - AngularJS IIII Pt 2
+#### <a name="day54"></a> Day 4 - AngularJS III Pt 2
 - Pre-Reading:
-  - [Finish Previous Mini Project](todo)
+  - [Finish Previous Mini Project](https://github.com/DevMountain/mini-userProfiles2)
 - (Continued) Learning Objectives
   - Students will be able to explain what JSON is
   - Students will be able to explain was REST is
@@ -375,7 +377,7 @@
 - Pre-Reading:
   - [$q](http://www.webdeveasy.com/javascript-promises-and-angularjs-q-service/)
 - Mini Project:
-  - [TODO](#TODO)
+  - [User Profile III](https://github.com/DevMountain/mini-userProfiles3)
 - Learning Objectives
   - Students will be able to make $http requests to various APIs
   - Students will be able to use outside directives and know how to inject those modules into their application
@@ -386,7 +388,7 @@
 
 #### <a name="day62"></a> Day 2 - AngularJS IIII Pt 2
 - Pre-Reading:
-  - [Finish Previous Mini Project](todo)
+  - [Finish Previous Mini Project](https://github.com/DevMountain/mini-userProfiles3)
 - (Continued) Learning Objectives
   - Students will be able to make $http requests to various APIs
   - Students will be able to use outside directives and know how to inject those modules into their application
@@ -417,7 +419,7 @@
 ## <a name="week7"></a> Week 7
 #### <a name="day71"></a> Day 1 -  AngularJS V Pt 2
 - Pre-Reading:
-  - [Finish Previous Mini Project](todo)
+  - [Finish Previous Mini Project](https://github.com/DevMountain/mini-Routing)
 - (Continued) Learning Objectives
   - Students will understand the methodology behind routing and templating
   - Students will be able to set up a basic routing system with multiple views and controllers using ngRoute
@@ -441,7 +443,7 @@
 
 #### <a name="day73"></a> Day 3 - AngularJS VI Pt 2
 - Pre-Reading:
-  - [Finish Previous Mini Project](todo)
+  - [Finish Previous Mini Project](https://github.com/DevMountain/mini-timeDirective)
 - Learning Objectives
   - Students will understand how Directives fit into the Angular ecosystem
   - Students will be able to create a custom directive and use it in a view
