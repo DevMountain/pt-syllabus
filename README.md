@@ -270,9 +270,11 @@
 - Before Class
   - [Do this](https://www.codeschool.com/courses/try-jquery)
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  * Student will understand the DOM
+  * Students will be able to make basic manipulations to the DOM
+  * Students will understand visual and functional purpose of the jQuery
+- Mini Project:
+  - [Paint](https://github.com/DevMountain/mini-paint)
 - Project:
   * [Twitter Clone](https://github.com/DevMountain/twitter-clone)
 - Additional Reading:
@@ -280,11 +282,7 @@
 
 #### <a name="day42"></a> Day 2 - jQuery II
 - Before Class
-  * READ THIS THING
-- Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
+  - TODO
 - Project:
   * [Twitter Clone cont.](https://github.com/DevMountain/twitter-clone)
 - Additional Reading:
@@ -292,13 +290,13 @@
 
 #### <a name="day43"></a> Day 3 - jQuery III
 - Before Class
-  * READ THIS THING
+  - READ THIS THING
 - Learning Objectives
-  * LEARNING OBJ
-  * LEARNING OBJ
-  * LEARNING OBJ
-- Project:
-  * [TodoList](#icantfindrepo)
+  - Students will understand CRUD
+  - Students will be able to make GET and POST requests
+  - Students will understand why AJAX is important
+- Mini Project:
+  - [Ajax](https://github.com/devmountain/mini-ajax)
 - Additional Reading:
   * Additional Reading
 
