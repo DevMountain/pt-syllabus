@@ -195,7 +195,7 @@
 
 #### <a name="day23"></a> Day 3 - JavaScript Fundamentals II
 - Pre-Reading:
-  - [TODO](TODO)
+  - [Eloquent JavaScript - Objects and Arrays](http://eloquentjavascript.net/04_data.html)
 - Learning Objectives
   - Students will understand Arrays:
     - purpose
