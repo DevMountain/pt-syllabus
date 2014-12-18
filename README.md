@@ -456,7 +456,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Project:
-  - [TODO](#TODO)
+  - [GitHub API](#TODO)
 - Additional Reading:
 
 ## <a name="week8"></a> Week 8
@@ -467,7 +467,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Project:
-  - [TODO](#TODO)
+  - [SoundCloud API](#TODO)
 - Additional Reading:
 
 #### <a name="day82"></a> Day 2 - Parse
