@@ -502,21 +502,18 @@
 #### <a name="day92"></a> Day 2 - Personal Projects
 #### <a name="day93"></a> Day 3 - Personal Projects
 #### <a name="day94"></a> Day 4 - Personal Projects
-#### <a name="day95"></a> Day 5 - Personal Projects
 
 ## <a name="week10"></a> Week 10
 #### <a name="day101"></a> Day 1 - Personal Projects
 #### <a name="day102"></a> Day 2 - Personal Projects
 #### <a name="day103"></a> Day 3 - Personal Projects
 #### <a name="day104"></a> Day 4 - Personal Projects
-#### <a name="day105"></a> Day 5 - Personal Projects
 
 ## <a name="week11"></a> Week 11
 #### <a name="day111"></a> Day 1 - Personal Projects
 #### <a name="day112"></a> Day 2 - Personal Projects
 #### <a name="day113"></a> Day 3 - Personal Projects
 #### <a name="day114"></a> Day 4 - Personal Projects
-#### <a name="day115"></a> Day 5 - Personal Projects
 
 ## <a name="week12"></a> Week 12
 #### <a name="day121"></a> Day 1 - Job Prep I
