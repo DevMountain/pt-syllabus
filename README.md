@@ -456,7 +456,7 @@
   * LEARNING OBJ
   * LEARNING OBJ
 - Project:
-  - [GitHub API](#TODO)
+  - [GitHub API](https://github.com/DevMountain/github-api)
 - Additional Reading:
 
 ## <a name="week8"></a> Week 8
