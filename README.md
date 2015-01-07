@@ -99,6 +99,7 @@
   - [Learn Git](https://github.com/DevMountain/learn-git)
 - Additional Reading:
   - [Getting Started with Git](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+  - [Using SSH w/ Git](https://help.github.com/articles/generating-ssh-keys/)
 
 
 #### <a name="day12"></a> Day 2 - HTML & CSS I
