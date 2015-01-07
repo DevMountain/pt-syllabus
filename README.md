@@ -103,8 +103,6 @@
 
 
 #### <a name="day12"></a> Day 2 - HTML & CSS I
-- Pre-Reading:
-  - [TODO](TODO)
 - Learning Objectives
   - Students will understand the purpose of HTML
   - Students will understand the purpose of CSS
@@ -132,7 +130,6 @@
     - clear
 - Project:
   - [HTML Layouts](https://github.com/DevMountain/html-layout)
-- Additional Reading:
 
 #### <a name="day13"></a> Day 3 - HTML & CSS II
 - Pre-Reading:
@@ -146,7 +143,6 @@
   - Students will understand and be able to use max/min-width and max/min-height
 - Projects:
   - [HTML Layout 2](https://github.com/DevMountain/html-layouts-2)
-- Additional Reading:
 
 #### <a name="day14"></a> Day 4 - HTML & CSS III
 - Pre-Reading:
@@ -161,11 +157,10 @@
 - Projects:
   - [Wikimedia Layout](https://github.com/DevMountain/wikimedia-layout)
 - Additional Reading:
+  - [Details and Positioning](http://learn.shayhowe.com/advanced-html-css/detailed-css-positioning/)
 
 ## <a name="week2"></a> Week 2
 #### <a name="day21"></a> Day 1 - Advanced CSS
-- Pre-Reading:
-  - [TODO](TODO)
 - Learning Objectives
   - Students will understand and be able to explain the box model to someone else
   - Students will understand media queries and be able to implement them
@@ -173,6 +168,7 @@
 - Project:
   - [SLC Dental](http://www.slcdentalcenter.com/)
 - Additional Reading:
+  - [Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/performance-organization/) 
 
 #### <a name="day22"></a> Day 2 - JavaScript Fundamentals I
 - Pre-Reading:
@@ -192,7 +188,6 @@
     - return values and how to save the returned value to another variable
 - Project:
   - [JS Basics](https://github.com/DevMountain/JS-Basics)
-- Additional Reading:
 
 #### <a name="day23"></a> Day 3 - JavaScript Fundamentals II
 - Pre-Reading:
@@ -222,6 +217,7 @@
 - Projects:
   - [JavaScript Objects](https://github.com/DevMountain/object-fiddles)
 - Additional Reading:
+  - [High Order Functions](http://eloquentjavascript.net/05_higher_order.html)
 
 ## <a name="week3"></a> Week 3
 #### <a name="day31"></a> Day 1 - Advanced JavaScript I
@@ -235,6 +231,7 @@
 - Projects:
   - [Callback Practice](https://github.com/DevMountain/callbackPractice)
 - Additional Reading:
+  - [Electronic Life](http://eloquentjavascript.net/07_elife.html) 
 
 #### <a name="day32"></a> Day 2 - Advanced JavaScript II
 - Pre-Reading:
@@ -248,6 +245,7 @@
 - Project:
   - [Constructors](https://github.com/DevMountain/ConstructorConductor)
 - Additional Reading:
+  - [JavaScript the right way](http://jstherightway.org/) 
 
 #### <a name="day33"></a> Day 3 - Advanced JavaScript III
 - Pre-Reading:
@@ -264,34 +262,33 @@
   - [JS is Sexy - Scopes and Hoisting](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
 - Project:
   - [JavaScript Review](https://github.com/DevMountain/JavaScript-Review)
-- Additional Reading:
 
 ## <a name="week4"></a> Week 4
 #### <a name="day41"></a> Day 1 - jQuery I
 - Before Class
   - [Do this](https://www.codeschool.com/courses/try-jquery)
 - Learning Objectives
-  * Student will understand the DOM
-  * Students will be able to make basic manipulations to the DOM
-  * Students will understand visual and functional purpose of the jQuery
+  - Student will understand the DOM
+  - Students will be able to make basic manipulations to the DOM
+  - Students will understand visual and functional purpose of the jQuery
 - Mini Project:
   - [Paint](https://github.com/DevMountain/mini-paint)
 - Project:
-  * [Twitter Clone](https://github.com/DevMountain/twitter-clone)
-- Additional Reading:
-  * Additional Reading
+  - [Twitter Clone](https://github.com/DevMountain/twitter-clone)
+
+  
 
 #### <a name="day42"></a> Day 2 - jQuery II
 - Before Class
-  - TODO
+  - [Codecademy - jQuery](http://www.codecademy.com/en/tracks/jquery)
 - Project:
-  * [Twitter Clone cont.](https://github.com/DevMountain/twitter-clone)
+  - [Twitter Clone cont.](https://github.com/DevMountain/twitter-clone)
 - Additional Reading:
-  * Additional Reading
+  - [jQuery Docs](http://jquery.com/)
 
 #### <a name="day43"></a> Day 3 - jQuery III
 - Before Class
-  - READ THIS THING
+  - [Ajax with jQuery](http://learn.jquery.com/ajax/)
 - Learning Objectives
   - Students will understand CRUD
   - Students will be able to make GET and POST requests
@@ -299,7 +296,7 @@
 - Mini Project:
   - [Ajax](https://github.com/devmountain/mini-ajax)
 - Additional Reading:
-  * Additional Reading
+  - [Ajax](http://en.wikipedia.org/wiki/Ajax_(programming))
 
 #### <a name="day44"></a> Day 4 - AngularJS I
 - Pre-Reading:
@@ -316,6 +313,7 @@
 - Project:
   - [Angular Friends](https://github.com/DevMountain/angular-friends)
 - Additional Reading:
+  - [Conceptual Overview](https://docs.angularjs.org/guide/concepts) 
 
 ## <a name="week5"></a> Week 5
 #### <a name="day51"></a> Day 1 - AngularJS II
@@ -331,6 +329,7 @@
 - Project:
   - [Quote Book (If Mini Project Completed)](https://github.com/DevMountain/quoteBook)
 - Additional Reading:
+  - [Services](https://docs.angularjs.org/guide/services) 
 
 #### <a name="day52"></a> Day 2 - AngularJS II Pt 2
 - Pre-Reading:
@@ -343,6 +342,7 @@
 - Project:
   - [Quote Book](https://github.com/DevMountain/quoteBook)
 - Additional Reading:
+  - [Dependency Injection](https://docs.angularjs.org/guide/di) 
 
 #### <a name="day53"></a> Day 3 - AngularJS III
 - Pre-Reading:
@@ -358,6 +358,7 @@
 - Project:
   - [Chatroom (If Mini Project Completed)](https://github.com/DevMountain/chatroom)
 - Additional Reading:
+  - [$http](https://docs.angularjs.org/api/ng/service/$http) 
 
 #### <a name="day54"></a> Day 4 - AngularJS III Pt 2
 - Pre-Reading:
@@ -369,7 +370,6 @@
   - Students will make an ajax request with angular, call .then on the promise and add that data to the $scope
 - Project:
   - [Chatroom](https://github.com/DevMountain/chatroom)
-- Additional Reading:
 
 ## <a name="week6"></a> Week 6
 #### <a name="day61"></a> Day 1 - AngularJS IIII 
@@ -383,7 +383,6 @@
   - Students will be able to create, return, and resolve their own promises with $q
 - Project:
   - [iTunes API (If Mini Project Completed)](https://github.com/DevMountain/itunes)
-- Additional Reading:
 
 #### <a name="day62"></a> Day 2 - AngularJS IIII Pt 2
 - Pre-Reading:
@@ -395,6 +394,7 @@
 - Project:
   - [iTunes API](https://github.com/DevMountain/itunes)
 - Additional Reading:
+  - [$q](https://docs.angularjs.org/api/ng/service/$q) 
 
 #### <a name="day63"></a> Day 3 - AngularJS Review I
 - Additional Reading:
@@ -413,6 +413,7 @@
 - Project:
   - [NBA Routes (If Mini Project Completed)](https://github.com/DevMountain/nbaRoutes)
 - Additional Reading:
+  - [UI Router - A different way to do routing](http://angular-ui.github.io/ui-router/site/#/api/ui.router) 
 
 ## <a name="week7"></a> Week 7
 #### <a name="day71"></a> Day 1 -  AngularJS V Pt 2
@@ -425,7 +426,6 @@
   - Students will be able to use routeParams to gather data from the URL
 - Project:
   - [NBA Routes](https://github.com/DevMountain/nbaRoutes)
-- Additional Reading:
 
 #### <a name="day72"></a> Day 2 - AngularJS VI
 - Pre-Reading:
@@ -438,6 +438,7 @@
 - Project:
   - [Directives Workshop (If Mini Project Completed)](https://github.com/DevMountain/Directives-Workshop)
 - Additional Reading:
+  - [Directives](http://www.sitepoint.com/practical-guide-angularjs-directives/) 
 
 #### <a name="day73"></a> Day 3 - AngularJS VI Pt 2
 - Pre-Reading:
@@ -447,7 +448,6 @@
   - Students will be able to create a custom directive and use it in a view
 - Project:
   - [Directives Workshop](https://github.com/DevMountain/Directives-Workshop)
-- Additional Reading:
 
 #### <a name="day74"></a> Day 4 - APIs I
 - Pre-Reading:
@@ -478,6 +478,7 @@
 - Project:
   - [Parse Queue](https://github.com/DevMountain/parseQueue)
 - Additional Reading:
+ - [Parse Angular Demo](http://brandid.github.io/parse-angular-demo/#/) 
 
 #### <a name="day83"></a> Day 3 - Firebase
 - Pre-Reading:
@@ -493,7 +494,7 @@
 
 #### <a name="day84"></a> Day 4 - Firebase Pt 2
 - Pre-Reading:
-  - [Finish Previous Mini Project](todo)
+  - [Make sure Auth project is finished](https://github.com/DevMountain/FirebaseLogin)
 - Learning Objectives
   - Students will understand how to build web applications in Firebase
   - Students will be able to complete RTFM
