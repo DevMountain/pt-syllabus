@@ -397,9 +397,8 @@
 - Additional Reading:
 
 #### <a name="day63"></a> Day 3 - AngularJS Review I
-- Project:
-  * [TODO](TODO)
 - Additional Reading:
+  - [Ng-Book](https://www.ng-book.com/) 
 
 #### <a name="day64"></a> Day 4 -  AngularJS V
 - Pre-Reading:
@@ -484,19 +483,24 @@
 - Pre-Reading:
   - [Firebase Tutorial](http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase--cms-22391)
 - Mini Project:
-  - [TODO](#TODO)
+  - [Firbase Auth](https://github.com/DevMountain/FirebaseLogin)
 - Learning Objectives
+  - Students will understand how authentication works with Firebase 
+  - Students will have a basic understanding of Firebase's api
+  - Students will have a basic understanding of AngularFire
 - Project:
   - [Real Time Forum (If Mini Project Completed)](https://github.com/DevMountain/rtfm)
-- Additional Reading:
 
 #### <a name="day84"></a> Day 4 - Firebase Pt 2
 - Pre-Reading:
   - [Finish Previous Mini Project](todo)
 - Learning Objectives
+  - Students will understand how to build web applications in Firebase
+  - Students will be able to complete RTFM
 - Project:
   - [Real Time Forum](https://github.com/DevMountain/rtfm)
 - Additional Reading:
+  - [AngularFire Docs](http://angularfire.com) 
 
 ## <a name="week9"></a> Week 9
 #### <a name="day91"></a> Day 1 - Personal Projects
