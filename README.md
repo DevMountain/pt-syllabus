@@ -524,21 +524,13 @@
 
 ## <a name="week12"></a> Week 12
 #### <a name="day121"></a> Day 1 - Job Prep I
-- Project:
-  - [TODO](#TODO)
 - Additional Reading:
 
 #### <a name="day122"></a> Day 2 - Job Prep II
-- Project:
-  - [TODO](#TODO)
 - Additional Reading:
 
 #### <a name="day123"></a> Day 3 - Job Prep III
-- Project:
-  - [TODO](#TODO)
 - Additional Reading:
 
 #### <a name="day124"></a> Day 4 - Job Prep IIII
-- Project:
-  - [TODO](TODO)
 - Additional Reading:
