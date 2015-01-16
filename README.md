@@ -201,7 +201,7 @@
     - how to create an array
     - how to loop through an array
 - Project:
-  - [Array Fiddles](https://github.com/DevMountain/array-fiddles)
+  - [Array Fiddles](https://github.com/DevMountain/JS-Arrays)
 - Additional Reading:
 
 #### <a name="day24"></a> Day 4 - JavaScript Fundamentals III
