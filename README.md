@@ -523,14 +523,14 @@
 #### <a name="day114"></a> Day 4 - Personal Projects
 
 ## <a name="week12"></a> Week 12
-#### <a name="day121"></a> Day 1 - Job Prep I
+#### <a name="day121"></a> Day 1 - Review I
 - Additional Reading:
 
-#### <a name="day122"></a> Day 2 - Job Prep II
+#### <a name="day122"></a> Day 2 - Review II
 - Additional Reading:
 
-#### <a name="day123"></a> Day 3 - Job Prep III
+#### <a name="day123"></a> Day 3 - Review III
 - Additional Reading:
 
-#### <a name="day124"></a> Day 4 - Job Prep IIII
+#### <a name="day124"></a> Day 4 - Review IIII
 - Additional Reading:
