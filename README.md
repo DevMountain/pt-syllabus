@@ -383,7 +383,7 @@
   - Students will be able to use outside directives and know how to inject those modules into their application
   - Students will be able to create, return, and resolve their own promises with $q
 - Project:
-  - [iTunes API (If Mini Project Completed)](https://github.com/DevMountain/itunes)
+  - [iTunes API](https://github.com/DevMountain/itunes)
 
 #### <a name="day62"></a> Day 2 - AngularJS IIII Pt 2
 - Pre-Reading:
@@ -393,7 +393,7 @@
   - Students will be able to use outside directives and know how to inject those modules into their application
   - Students will be able to create, return, and resolve their own promises with $q
 - Project:
-  - [iTunes API](https://github.com/DevMountain/itunes)
+  - [Reddit](https://github.com/DevMountain/reddit)
 - Additional Reading:
   - [$q](https://docs.angularjs.org/api/ng/service/$q) 
 
