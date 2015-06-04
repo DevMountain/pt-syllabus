@@ -492,6 +492,8 @@
   - Students will have a basic understanding of AngularFire
 - Project:
   - [Real Time Forum (If Mini Project Completed)](https://github.com/DevMountain/rtfm)
+- Additional Reading:
+  - [Using AngularFire in an Application](https://www.youtube.com/watch?v=bjcVzK8VDvA)
 
 #### <a name="day84"></a> Day 4 - Firebase Pt 2
 - Pre-Reading:
@@ -502,7 +504,8 @@
 - Project:
   - [Real Time Forum](https://github.com/DevMountain/rtfm)
 - Additional Reading:
-  - [AngularFire Docs](http://angularfire.com) 
+  - [AngularFire Docs](http://angularfire.com)
+  - [Google Authentication with Firebase](https://www.youtube.com/watch?v=UYUMY9Fs2b0)
 
 ## <a name="week9"></a> Week 9
 #### <a name="day91"></a> Day 1 - Personal Projects
