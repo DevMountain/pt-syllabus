@@ -471,15 +471,8 @@
   - [SoundCloud API](https://github.com/DevMountain/soundCloud-api)
 - Additional Reading:
 
-#### <a name="day82"></a> Day 2 - Parse
-- Pre-Reading:
-- Learning Objectives
-  - Students will understand the term CRUD
-  - Students will be able to use Angular’s $http service to make ajax requests to Parse’s RESTful endpoints, then     put that data on $scope
-- Project:
-  - [Parse Queue](https://github.com/DevMountain/parseQueue)
-- Additional Reading:
- - [Parse Angular Demo](http://brandid.github.io/parse-angular-demo/#/) 
+#### <a name="day82"></a> Day 2 - Angular Review Day
+- Review all the things
 
 #### <a name="day83"></a> Day 3 - Firebase
 - Pre-Reading:
