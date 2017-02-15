@@ -258,7 +258,7 @@
   - [Closure Practice](https://github.com/DevMountain/closurePractice)
 - Additional Reading:
 
-#### <a name="day44"></a> Day 4 - JavaScript Review
+#### <a name="day34"></a> Day 4 - JavaScript Review
 - Pre-Reading:
   - [JS is Sexy - Scopes and Hoisting](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
 - Project:
